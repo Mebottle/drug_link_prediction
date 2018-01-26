@@ -1,0 +1,57 @@
+anticoagulant activities
+antiplatelet activities
+antipsychotic activities
+antihypertensive activities
+bronchodilatory activities
+bradycardic activities
+cardiotoxic activities
+constipating activities
+diuretic activities
+dermatologic adverse activities
+fluid retaining activities
+hepatotoxic activities
+hypoglycemic activities
+hypotensive activities
+hypokalemic activities
+hypertensive activities
+hyperkalemic activities
+hyponatremic activities
+hypercalcemic activities
+immunosuppressive activities
+myopathic rhabdomyolysis activities
+neuromuscular blocking activities
+nephrotoxic activities
+neurotoxic activities
+neuroexcitatory activities
+neuromuscular blocking activities
+QTc-prolonging activities
+respiratory depressant activities
+sedative activities
+stimulatory activities
+serotonergic activities
+thrombogenic activities
+vasopressor activities
+vasoconstricting activities
+central nervous system depressant activities
+atrioventricular blocking
+metabolism
+serum concentration
+bioavailability
+absorption
+protein binding
+therapeutic efficacy
+diagnostic agent
+risk
+severity
+adverse effects
+hypotension
+hypertension
+bleeding
+qtc prolongation
+heart failure
+myelosuppression
+cytotoxicity
+serum level
+excretion rate
+active metabolite
+efficacy
